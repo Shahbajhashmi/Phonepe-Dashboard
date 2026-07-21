@@ -36,23 +36,7 @@ The dashboard is designed to help users monitor and analyze PhonePe transaction 
 
 ---
 
-## 📂 Dashboard Preview
 
-> Add your dashboard screenshot here.
-
-Example:
-
-```
-PhonePe Dashboard Screenshot
-```
-
-or
-
-```markdown
-![Dashboard Preview](PhonePe_Dashboard.png)
-```
-
----
 
 ## 📊 Key Metrics
 
@@ -106,7 +90,8 @@ PhonePe-Dashboard/
 
 (Add your dashboard screenshot below)
 
-![Dashboard](PhonePe_Dashboard.png)
+![Dashboard](<img width="2254" height="1276" alt="Phonepe Dashboard" src="https://github.com/user-attachments/assets/7db634c7-2752-454b-8d02-46eddf3660ea" />
+)
 
 ---
 
