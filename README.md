@@ -84,16 +84,7 @@ PhonePe-Dashboard/
 - Business Intelligence
 - Data Visualization
 
----
 
-## 📸 Dashboard
-
-(Add your dashboard screenshot below)
-
-![Dashboard](<img width="2254" height="1276" alt="Phonepe Dashboard" src="https://github.com/user-attachments/assets/7db634c7-2752-454b-8d02-46eddf3660ea" />
-)
-
----
 
 ## ⭐ If you found this project helpful, please consider giving it a Star!
 
